@@ -5,6 +5,7 @@ morestuff = {"hi" : []}
 
 
 for i in range(10):
-	a = i % 4
+	test = f"blah"
+	anoterh = i * "hi"
 
 print("done and done")
